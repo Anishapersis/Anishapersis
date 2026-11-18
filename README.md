@@ -11,7 +11,7 @@
 
 | Project | What it shows |
 |---|---|
-| [**Insurance Claims Fraud Detection**](https://github.com/Anishapersis/insurance-claims-fraud-detection) | XGBoost vs. baselines on imbalanced data, a cost-based alert threshold, SHAP explanations, a model card and a **leakage check that caught a spurious feature**. Streamlit triage app. |
+| [**Insurance Claims Fraud Detection**](https://github.com/Anishapersis/insurance-claims-fraud-detection) | XGBoost vs. baselines on imbalanced data, a cost-based alert threshold, SHAP explanations, a model card and a **leakage check that caught a spurious feature**. Streamlit triage app plus a **FastAPI + Docker** REST API. |
 | [**Insurance Policy RAG Assistant**](https://github.com/Anishapersis/insurance-policy-rag-assistant) | Hybrid BM25 + embedding retrieval with RRF, citation-enforced answers and refusals, **benchmarked on a labelled question set** (hit@k, MRR). Works with OpenAI or a local Ollama model. |
 | [Stress Detection in Social Media (MSc dissertation)](https://github.com/Anishapersis/Disseration-Stress_Analysis) | NLP: fine-tuned BERT vs. SVM / Random Forest for detecting psychological stress in Reddit posts. |
 | [Machine Learning Projects](https://github.com/Anishapersis/MachineLearning) | XGBoost workforce analytics, SARIMAX time-series forecasting and other applied ML notebooks. |
